@@ -8,3 +8,5 @@ This is a workshop to learn about git and github!!
 
 Adapted from the Carpentries, introduces the basics of Git and GitHub 
 for version control and collaboration.
+
+This is to show you the command git diff
