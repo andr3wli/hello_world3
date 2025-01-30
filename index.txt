@@ -1,0 +1,10 @@
+Introduction to git and github workshop 
+
+by UBC library research commons 
+
+Jan 30th 2025
+
+This is a workshop to learn about git and github!!
+
+Adapted from the Carpentries, introduces the basics of Git and GitHub 
+for version control and collaboration.
