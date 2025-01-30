@@ -10,3 +10,5 @@ Adapted from the Carpentries, introduces the basics of Git and GitHub
 for version control and collaboration.
 
 This is to show you the command git diff
+
+Now this is to show the whole thing: git add, git commit and git push
